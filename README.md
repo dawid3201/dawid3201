@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Spring Security and Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dawid3201](https://github.com/dawid3201)
-
 - 📫 How to reach me **ddawid.rybinski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
